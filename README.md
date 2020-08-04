@@ -6,8 +6,8 @@
 
 # Demo
 
-<img width="600px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103738.png" align="center" alt="GitHub Readme Stats" />
-<img width="600px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103859.png" align="center" alt="GitHub Readme Stats" />
+<img width="800px" align="center" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103738.png" align="center" alt="GitHub Readme Stats" />
+<img width="800px" align="center" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103859.png" align="center" alt="GitHub Readme Stats" />
 
 # Features
 - Interactive web pages built with angular
