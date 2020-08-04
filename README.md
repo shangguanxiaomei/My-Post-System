@@ -1,13 +1,13 @@
 <p align="center">
- <img width="100px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/pngtree-internet-web-site-with-approved-mark-vector-icon-png-image_1804267.jpg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/pngtree-internet-web-site-with-approved-mark-vector-icon-png-image_1804267.jpg" align="center" alt="My Post System" />
  <h2 align="center">My Post System</h2>
  <p align="center">A post web service with RESTful API using Angular & Microservices</p>
 </p>
 
 # Demo
 
-<img width="800px" align="center" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103738.png" align="center" alt="GitHub Readme Stats" />
-<img width="800px" align="center" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103859.png" align="center" alt="GitHub Readme Stats" />
+<img width="1000px" align="center" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103738.png" align="center" alt="GitHub Readme Stats" />
+<img width="1000px" align="center" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103859.png" align="center" alt="GitHub Readme Stats" />
 
 # Features
 - Interactive web pages built with angular
