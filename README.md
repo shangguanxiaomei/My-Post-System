@@ -10,10 +10,10 @@
 <img width="1000px" align="center" src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200804%20Project/Annotation 2020-08-04 103859.png" align="center" alt="GitHub Readme Stats" />
 
 # Features
-- Interactive web pages built with angular
+- Interactive web pages built with angular.
 - Using Asynchronous call to load the content from firebase.
-- 4 Spring Cloud Netflix microservices
-- 100% test coverage for both frontend and backend
+- 4 Spring Cloud Netflix microservices.
+- 100% test coverage for both frontend and backend.
 
 
 # Structures
